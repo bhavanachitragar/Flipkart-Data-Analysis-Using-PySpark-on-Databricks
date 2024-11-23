@@ -26,6 +26,7 @@ The project focuses on building an end-to-end data engineering pipeline using Py
 
 
 #### Sanpshots:
+![Screenshot 2024-11-23 131227](https://github.com/user-attachments/assets/93061612-58a7-4ac3-b0b8-3c8415934f39)
 
 
 ----------------------------------------------------------------
